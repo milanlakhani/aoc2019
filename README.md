@@ -1,2 +1,2 @@
 # aoc2019
-Advent of Code 2019 repo
+Advent of Code 2019 repo, using Python this year
